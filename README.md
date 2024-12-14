@@ -1,1 +1,1 @@
-# to-do
+Todo list built with Node.Js, GraphQL
